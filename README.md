@@ -34,7 +34,7 @@ Tipo/Género:
 ### Personaje
 
 
-![](img-nobody.png)
+![](Captura de pantalla 2026-03-09 122844.png)
 
 Nombre: 
 
