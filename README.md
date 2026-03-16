@@ -11,7 +11,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 - :neckbeard: Eva Senra Fafián
-- :woman: minombre
+- :bowtie: Eneko Sáez Manzanas
 - :woman: minombre 
 
 
