@@ -36,23 +36,31 @@ Un chef ocasiona una explosión con su cigarro y una tostadora creando una tosta
 ![Imagen de un chef](chef.png)
 ![Información para Celíacos](Celiacos.png)
 ### Historia
+Todo comenzó en la cocina de un restaurante . El Chef Fumón, al borde de un colapso nervioso y rodeado de comandas, dejó caer accidentalmente una brasa de su cigarro dentro de una tostadora industrial. La combustión química entre la nicotina, el acero oxidado y una rebanada de pan de masa madre creó una anomalía molecular: El Gran Tostador.
 
+Esta tostada no solo cobró vida, sino que nació con un complejo de superioridad carbonizado. En cuestión de horas, el gran tostador organizó y proclamó la "Dictadura del Trigo". Su primera ley fue clara: cualquier alimento sin gluten es una traición al sabor. Mientras el Chef Fumón intentaba apagar el incendio de su cocina, el país ya estaba siendo patrullado por un ejército de picatostes armados. Los Celíacos, ahora perseguidos como disidentes, han tenido que refugiarse en panaderías clandestinas de harina de maíz, esperando el momento exacto para que la resistencia gané.
 
 ### TagLine
-
+"En un mundo de migas, solo el más tostado sobrevive. ¡Únete a la Gluten-Revolución!"
 
 ### Conflicto 
+El conflicto central es una lucha por la supervivencia alimentaria y la libertad de elección, dividida en tres frentes:
 
+Ideológico: La obsesión de El Gran Tostador por la "pureza del gluten" frente al derecho de los celíacos a existir sin ser intoxicados. Es una lucha entre el totalitarismo gastronómico y la diversidad dietética.
+
+Moral (Redención): El Chef Fumón carga con la culpa de haber creado al monstruo. Su conflicto interno es pasar de un empleado sumiso y adicto al tabaco a un líder revolucionario que debe destruir su propia "creación" para salvar al pueblo.
+
+El clímax se centra en derrocar al dictador antes de que logre "tostar" a toda la población.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personajes: https://app.lumi.education/run/TO21Mv  
 
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser: 
 
 
-- Storytelling: (enlace) 
+- Storytelling: 
 
 
 
