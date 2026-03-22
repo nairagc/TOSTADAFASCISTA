@@ -29,12 +29,11 @@ Tipo/Género:
 
 
 ## Resumen
+Un chef ocasiona una explosión con su cigarro y una tostadora creando una tostada maligna con vida que se convierte en un dictador fascista. Establece una dictadura y todos los celiacos quedan oprimidos hasta que deciden llevara a cabo una revolución.
+
+### Personajes
 
 
-### Personaje
-
-
-![](Captura de pantalla 2026-03-09 122844.png)
 
 Nombre: 
 
