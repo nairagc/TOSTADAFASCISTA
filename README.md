@@ -32,15 +32,9 @@ Tipo/Género:
 Un chef ocasiona una explosión con su cigarro y una tostadora creando una tostada maligna con vida que se convierte en un dictador fascista. Establece una dictadura y todos los celiacos quedan oprimidos hasta que deciden llevara a cabo una revolución.
 
 ### Personajes
-
-
-
-Nombre: 
-
-
-NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
-* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
-
+/imagenes/tostador.png)
+/imagenes/chef.png)
+/imagenes/Celiacos.png)
 ### Historia
 
 
