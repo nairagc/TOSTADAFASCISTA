@@ -55,9 +55,13 @@ El clímax se centra en derrocar al dictador antes de que logre "tostar" a toda 
 ### Productos
 
 - Personajes:
-![Imagen de un tostador](tosta.png)
-![Imagen de un tostador](celiacoss.png)
-![Imagen de un tostador](f_chef.png)
+<div align="center">
+  <img src="tosta.png" width="450" alt="Tostador">
+  <br><br>
+  <img src="celiacoss.png" width="450" alt="Celiacos">
+  <br><br>
+  <img src="f_chef.png" width="450" alt="Chef">
+</div>
 
   Enlace de test de personalidad: https://app.lumi.education/run/TO21Mv  
 
