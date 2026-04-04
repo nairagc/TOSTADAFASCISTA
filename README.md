@@ -63,7 +63,8 @@ El clímax se centra en derrocar al dictador antes de que logre "tostar" a toda 
   <img src="f_chef.png" width="450" alt="Chef">
 </div>
 
-  Enlace de test de personalidad: https://app.lumi.education/run/TO21Mv  
+  Enlace de test de personalidad: 
+https://h5p.org/node/1558826 
 
 
 - Banner/Teaser: 
@@ -73,8 +74,6 @@ El clímax se centra en derrocar al dictador antes de que logre "tostar" a toda 
 
 
 
-
-### Conclusiones/Valoración del equipo
 
 
 
